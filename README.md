@@ -1,6 +1,6 @@
-# waves_generator
+# Subwoofer Tuner
 
-A new Flutter project.
+Simple flutter project for make sound waves with a different frequency
 
 ## Getting Started
 
